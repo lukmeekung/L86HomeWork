@@ -1,0 +1,15 @@
+D:\C#\sortApp\sortApp\bin\Debug\sortApp.exe.config
+D:\C#\sortApp\sortApp\bin\Debug\sortApp.exe
+D:\C#\sortApp\sortApp\bin\Debug\sortApp.pdb
+D:\C#\sortApp\sortApp\obj\Debug\sortApp.csprojAssemblyReference.cache
+D:\C#\sortApp\sortApp\obj\Debug\MainWindow.g.cs
+D:\C#\sortApp\sortApp\obj\Debug\App.g.cs
+D:\C#\sortApp\sortApp\obj\Debug\sortApp_MarkupCompile.cache
+D:\C#\sortApp\sortApp\obj\Debug\sortApp_MarkupCompile.lref
+D:\C#\sortApp\sortApp\obj\Debug\MainWindow.baml
+D:\C#\sortApp\sortApp\obj\Debug\sortApp.g.resources
+D:\C#\sortApp\sortApp\obj\Debug\sortApp.Properties.Resources.resources
+D:\C#\sortApp\sortApp\obj\Debug\sortApp.csproj.GenerateResource.cache
+D:\C#\sortApp\sortApp\obj\Debug\sortApp.csproj.CoreCompileInputs.cache
+D:\C#\sortApp\sortApp\obj\Debug\sortApp.exe
+D:\C#\sortApp\sortApp\obj\Debug\sortApp.pdb
